@@ -12,8 +12,8 @@ for _ in range(word_length):
     display += "_"
 
 game_over = False
-lives = 6
-
+# lives = 6
+lives = 7
 
 
 while not game_over:
